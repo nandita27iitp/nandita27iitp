@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandita Gupta</h1>
-<h3 align="center">A third Year UG studying at IIT Patna, a Tech Enthusiast, Web Developer and a Programmer.</h3>
+<h3 align="center">Junior Year, IIT Patna | Programmer | Web Development | UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita27iitp&label=Profile%20views&color=0e75b6&style=flat" alt="nandita27iitp" /> </p>
 
