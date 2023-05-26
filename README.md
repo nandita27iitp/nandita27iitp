@@ -2,57 +2,39 @@
 
 
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
-<h3 align="center">Junior Year, IIT Patna | Programmer | Web Development | UI/UX</h3>
+<h3 align="center">Junior Year, IIT Patna | Programmer | Web Development | UI/UX</h3><hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita27iitp&label=Profile%20views&color=0e75b6&style=flat" alt="nandita27iitp" /> </p>
+🌱 I’m currently exploring AI and Data Science field.<br><br>👨‍💻 All of my projects are available at nandita27iitp.github.io<br><br>📝 I sometimes write articles on http://nanditablogs27.wordpress.com/<br><br>📫 How to reach me nandita27iitp@gmail.com<br><br>⚡ Fun fact I am PotterHead ;)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandita27iitp" alt="nandita27iitp" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<p align="left"> <a href="https://twitter.com/n_and_it_a_27" target="blank"><img src="https://img.shields.io/twitter/follow/n_and_it_a_27?logo=twitter&style=for-the-badge" alt="n_and_it_a_27" /></a> </p>
-
-- 🌱 I’m currently exploring **AI and Data Science field.**
-
-- 👨‍💻 All of my projects are available at [nandita27iitp.github.io](nandita27iitp.github.io)
-
-- 📝 I sometimes write articles on [http://nanditablogs27.wordpress.com/](http://nanditablogs27.wordpress.com/)
-
-- 📫 How to reach me **nandita27iitp@gmail.com**
-
-- ⚡ Fun fact **I am PotterHead ;)**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nan_dita27_/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandita-gupta-906343222/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/n_and_it_a_27) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/nandita27iitp) 
 <p align="left">
-  <a href="https://twitter.com/n_and_it_a_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_and_it_a_27" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandita-gupta-906343222/" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/nandita27iitp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nandita27iitp" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nandita27iitp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nandita27iitp" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/nandita27iitp?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nandita27iitp?hr_r=1" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/nandita27iitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nandita27iitp" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://twitter.com/n_and_it_a_27" target="blank"><img src="https://img.shields.io/twitter/follow/n_and_it_a_27?logo=twitter&style=for-the-badge" alt="n_and_it_a_27" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nandita27iitp&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandita27iitp&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandita27iitp&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nandita27iitp&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandita27iitp&show_icons=true&locale=en&layout=compact" alt="nandita27iitp" /></p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/n_and_it_a_27)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandita27iitp&show_icons=true&locale=en" alt="nandita27iitp" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nandita27iitp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandita27iitp&" alt="nandita27iitp" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nandita27iitp&icon=5&color=1)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
