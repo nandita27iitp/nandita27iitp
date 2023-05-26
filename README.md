@@ -1,4 +1,4 @@
-<img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/banner2.png" />
+<p alight = "center"><img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/banner2.png" alt = "banner" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
