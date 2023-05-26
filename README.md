@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/n_and_it_a_27" target="blank"><img src="https://img.shields.io/twitter/follow/n_and_it_a_27?logo=twitter&style=for-the-badge" alt="n_and_it_a_27" /></a> </p>
 
-- 🌱 I’m currently learning **and exploring AI and Data Science domain.**
+- 🌱 I’m currently exploring **AI and Data Science field.**
 
 - 👨‍💻 All of my projects are available at [nandita27iitp.github.io](nandita27iitp.github.io)
 
-- 📝 I regularly write articles on [http://nanditablogs27.wordpress.com/](http://nanditablogs27.wordpress.com/)
+- 📝 I sometimes write articles on [http://nanditablogs27.wordpress.com/](http://nanditablogs27.wordpress.com/)
 
 - 📫 How to reach me **nandita27iitp@gmail.com**
 
@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/n_and_it_a_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_and_it_a_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandita-gupta-906343222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandita-gupta-906343222/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/nandita27iitp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nandita27iitp" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nandita27iitp?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nandita27iitp?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/nandita27iitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nandita27iitp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nandita-gupta-906343222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandita-gupta-906343222/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nandita27iitp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nandita27iitp" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nandita27iitp?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nandita27iitp?hr_r=1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nandita27iitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nandita27iitp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
