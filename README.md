@@ -1,3 +1,4 @@
+<img src= "" alt = "banner" />
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
 <h3 align="center">Junior Year, IIT Patna | Programmer | Web Development | UI/UX</h3>
 
