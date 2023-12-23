@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
-<h3 align="center">Junior Year, IIT Patna | Programmer | Web Development | UI/UX</h3><hr>
+<h3 align="center">Junior Year, IIT Patna | Competitive Programmer | Full Stack Web Developer | UI/UX</h3><hr>
 
 🌱 I’m currently exploring AI and Data Science field.<br><br>👨‍💻 All of my projects are available at <a href = "https://nandita27iitp.netlify.app/">My Portfolio.</a><br><br>📝 I sometimes write articles on <a href="http://nanditablogs9.wordpress.com/">My Blog.</a><br><br> 🎈Contact me: nandita27iitp@gmail.com<br><br>⚡ Fun fact I am PotterHead ;)
 
