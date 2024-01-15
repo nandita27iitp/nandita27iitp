@@ -31,3 +31,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+[![nandita27iitp's GitHub | Dependencies](https://stats.quine.sh/nandita27iitp/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nandita27iitp)
+[![nandita27iitp's GitHub | Stats](https://stats.quine.sh/nandita27iitp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nandita27iitp)
+[![nandita27iitp's GitHub | Topics Over Time](https://stats.quine.sh/nandita27iitp/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nandita27iitp)
+[![nandita27iitp's GitHub | Languages Over Time](https://stats.quine.sh/nandita27iitp/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nandita27iitp)
