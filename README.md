@@ -329,7 +329,9 @@
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</div>
+</div><br />
+
+[![Nandita's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandita27iitp&&theme=github-compact)](https://github.com/nandita27iitp/github-readme-activity-graph)
 <!--
 <img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/banner2.png" alt = "banner" />
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
