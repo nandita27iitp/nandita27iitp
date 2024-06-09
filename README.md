@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nandita27iitp.netlify.app/"><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
+  <a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
   <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6" /></a>
   <a href="https://instagram.com/_nan_dita27_"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%230e75b6" /></a>
 </p>
