@@ -1,4 +1,4 @@
-<img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/banner2.png" alt = "banner" />
+<img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/" alt = "banner" />
 
 <h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
