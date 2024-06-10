@@ -1,4 +1,4 @@
-<img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/" alt = "banner" />
+<img src ="https://raw.githubusercontent.com/nandita27iitp/nandita27iitp/main/Simple%20Technology%20LinkedIn%20Banner%20(1).png" alt = "banner" />
 
 <h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
