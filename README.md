@@ -100,7 +100,7 @@
         <!-- YouTube -->
         <!--<a href="https://www.youtube.com/@Hack-Master"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>-->
         <!-- Telegram -->
-        <!--<a href="https://t.me/hack_er_boy"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>-->
+        <a href="https://medium.com/@nandita27iitp"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
         <!-- Facebook -->
         <a href="https://www.facebook.com/profile.php?id=100070728071906"><img align="center" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
       </td>
