@@ -5,19 +5,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Nandita+Gupta)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST;ML/DS+ENTHUSIAST)](https://git.io/typing-svg)
 
-<p align='center'>
+<!--<p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
 </p>
 
 <p align="center">
-  <!--<a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>-->
-  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="https://img.shields.io/badge/Linkedin-Click-%230e75b6" /></a>
-  <a href="https://instagram.com/_nan_dita27_"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%230e75b6" /></a>
-</p>
+  <!--<a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
+  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img align="center" src="https://raw.githubusercontent.com/nandita27iitp/nandita27iitp/ad8cd3d532926beef9af70fcf498c0365e915047/linkedin.svg" alt="icon-linkedin" width="30px"/></a>
+  <a href="https://instagram.com/_nan_dita27_"><img align="center" src="https://raw.githubusercontent.com/nandita27iitp/nandita27iitp/ad8cd3d532926beef9af70fcf498c0365e915047/instagram.svg" alt="icon-instagram" width="30px"/></a>
+</p>-->
 
-## :zap: About Me 👦
-- 👋 Hi, I'm a B.Tech Student of **Indian Institute of Technology (IIT), Patna** 🧑‍💻🎉
-- 🎊 I have a keen interest in **Full Stack Development** and **Machine Learning** and I love developing softwares, websites, models, and web apps 🏈🎯
+## :zap: About Me 👧
+- 👋 Hi, I'm a **Final Year B.Tech** Student at **Indian Institute of Technology (IIT), Patna** 🧑‍💻🎉
+- 🎊 I have a keen interest in **Full Stack Development** and **Machine Learning** and I love developing softwares, websites, models, and web apps. 🏈🎯
 - 🎭 I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on **GitHub** and collaborate with others in the open source community 🎰♠️
 - 📫 Wanna interested in discussing potential collaborations, tech insights, or just want to say hi, contact me at nandita27iitp@gmail.com.
 
@@ -25,13 +25,13 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Open Source Programs 🎭
+## :zap: Open Source Programs I have participated 🎭
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Contributor at <br> <a href="https://www.codepeak.tech/">Code Peak'23</a> </td>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍💻 Contributor at <br> <a href="https://www.socialwinterofcode.com/">SWOC'24</a> </td>
-    <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <br> <a href="https://gssoc.girlscript.tech/">GSSOC'23</a> </td>-->
-    <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <br> <a href="https://hack2skill.com/hack/ssoc">SSOC'23</a> </td>-->
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <br> <a href="https://gssoc.girlscript.tech/">GSSOC'24</a> </td>-->
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <br> <a href="https://hack2skill.com/hack/ssoc">SSOC'24</a> </td>-->
     <!--<td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <br> <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </td>-->
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🧑‍🏫 Contributor at <br> <a href="https://www.jwoc.tech/">JWOC'24</a> </td>
   </tr>
@@ -42,21 +42,21 @@
   </tr>-->
 </table>
 
-<!--## :zap: Achievements 🏆
+## :zap: My Achievements 🏆
 <table align="center">
   <tr>
-    <td>SWOC'23</td>
-    <td>🏅 Top 100 out of 1000+ participants and 5000+ applicants.</td>
+    <td>AMEX Makeathon 2024 Finalist - American Express</td>
+    <td>🏅 Secured position in Top 12 teams out of 15000+ participants.</td>
   </tr>
   <tr>
-    <td>GSSOC'23</td>
-    <td>🏅 Ranked 6th out of 1557 participants and 13000+ applicants, Top 100.</td>
+    <td>HackWithInfy 2024 - Infosys Ltd.</td>
+    <td>🏅 Secured position in Top 100 across the country.</td>
   </tr>
   <tr>
-    <td>SSOC'23</td>
-    <td>🥇 Ranked 1st out of 1000+ participants and 5000+ applicants</td>
+    <td>CodeLikeAda 2024 - LG Ad. Solutions</td>
+    <td>🏅 Secured position in Top 50 among 5000+ women across the country.</td>
   </tr>
-  <tr>
+  <!--<tr>
     <td>Hacktoberfest'23</td>
     <td>
       <a href="https://holopin.io/@avdheshvarshney">
@@ -67,7 +67,7 @@
   <tr>
     <td>Code Peak'23</td>
     <td>🏅 Ranked 23rd out of 500+ participants, Top 100.</td>
-  </tr>
+  </tr>-->
 </table>-->
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -189,10 +189,10 @@
 <table align="center">
   <thead align="center">
     <tr align="center">
-      <!-- Competitive Programming Skills -->
-      <td align="center">👨‍💻 COMPETITIVE PROGRAMMING</td>
+      <!-- Languages -->
+      <td align="center">👨‍💻 PROGRAMMING LANGUAGES</td>
       <!-- Data Science Skills -->
-      <td align="center">😎 DATA SCIENCE</td>
+      <td align="center">😎 DATA SCIENCE/ML</td>
       <!-- Web Development Skills -->
       <td align="center">🎉 WEB DEVELOPMENT</td>
       <!-- Other Skills -->
@@ -324,6 +324,8 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+[![Nandita's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandita27iitp&&theme=github-compact)](https://github.com/nandita27iitp/github-readme-activity-graph)
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
@@ -331,7 +333,6 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div><br />
 
-[![Nandita's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandita27iitp&&theme=github-compact)](https://github.com/nandita27iitp/github-readme-activity-graph)
 <!--
 <img src ="https://github.com/nandita27iitp/nandita27iitp/blob/main/banner2.png" alt = "banner" />
 <h1 align="center">Hi 👋, I'm Nandita Gupta (nandita27iitp)</h1>
