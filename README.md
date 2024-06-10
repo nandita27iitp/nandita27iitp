@@ -3,15 +3,15 @@
 <h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Nandita+Gupta)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST;ML/DS+ENTHUSIAST)](https://git.io/typing-svg)
 
 <p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
 </p>
 
 <p align="center">
-  <a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>
-  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="https://img.shields.io/badge/LinkedIn-Click-%230e75b6" /></a>
+  <!--<a href=""><img height="30" src="https://img.shields.io/badge/Portfolio-Click-%230e75b6" /></a>-->
+  <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img height="30" src="https://img.shields.io/badge/Linkedin-Click-%230e75b6" /></a>
   <a href="https://instagram.com/_nan_dita27_"><img height="30" src="https://img.shields.io/badge/Instagram-Click-%230e75b6" /></a>
 </p>
 
